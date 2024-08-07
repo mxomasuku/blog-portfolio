@@ -12,7 +12,17 @@ export default function Page() {
         `}
       </p>
       <div className="my-8">
-        <BlogPosts />
+
+      <BlogPosts/>
+
+<div className='flex gap-4'>
+
+
+
+
+<div>Blog</div>  <div>Ideas that excited me</div>
+</div>
+
       </div>
     </section>
   )
