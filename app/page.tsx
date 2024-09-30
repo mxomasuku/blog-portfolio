@@ -20,7 +20,8 @@ export default function Page() {
 
 
 
-<div>Blog</div>  <div>Ideas that excited me</div>
+<div>Blog</div> 
+ <div>Ideas that excited me</div>
 </div>
 
       </div>

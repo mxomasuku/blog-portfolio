@@ -41,7 +41,7 @@ function CustomLink(props) {
     return <a {...props} />
   }
 
-  return <a target="_blank" rel="noopener noreferrer" {...props} />
+  return <a target="_blank" rel="noopener noreferrer" {...props} className='text-blue-400' />
 }
 
 function RoundedImage(props) {
